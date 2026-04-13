@@ -1,0 +1,12 @@
+========== USER REPORT ==========
+
+Total Users: 4
+
+Student{User{userId=2, name='John Doe', email='john@student.com', role='STUDENT'}, walletBalance=500.0, enrolledCourses=0}
+Student{User{userId=4, name='Alice Johnson', email='alice@student.com', role='STUDENT'}, walletBalance=150.0, enrolledCourses=0}
+Student{User{userId=3, name='Jane Smith', email='jane@student.com', role='STUDENT'}, walletBalance=300.0, enrolledCourses=0}
+Admin{User{userId=1, name='Admin User', email='admin@cms.com', role='ADMIN'}, adminLevel='SUPER_ADMIN'}
+
+========== SUMMARY ==========
+Admins: 1
+Students: 3

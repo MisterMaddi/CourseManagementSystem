@@ -1,0 +1,7 @@
+CourseID,CourseName,Instructor,Price,IsFree,Category,EnrolledStudents
+1,Java Programming Masterclass,Dr. Robert Smith,49.99,false,Programming,0
+2,Python for Data Science,Prof. Emily Davis,39.99,false,Data Science,0
+3,Web Development Bootcamp,Mike Johnson,59.99,false,Web Development,0
+5,DSA in Java,Prof. Kumar,29.00,true,Programming,0
+6,Introduction to RAG,David,0.00,true,AI/CSE,0
+7,Object Oriented Programming,Dr. Subhash,20.00,false,programming,0
